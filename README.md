@@ -1,12 +1,24 @@
-# E-commerce Platform
+# E-commerce Platform - MERN Stack Final Project
 
-Full-stack e-commerce platform with React frontend and Node.js backend, featuring secure authentication, product management, and real-time updates.
+Full-stack e-commerce platform built with React, Node.js, Express, and MongoDB. Features secure authentication, product management, shopping cart, and admin dashboard.
 
-## 🚀 Quick Deploy (Production)
+## 🌐 Live Demo
 
-**Backend:** [Render](https://render.com) | **Frontend:** [Vercel](https://vercel.com)
+- **Frontend:** https://frontend-moaasl5zo-bernard-mugos-projects.vercel.app
+- **Backend API:** https://mern-final-project-mugoemm.onrender.com
+- **Admin Panel:** https://frontend-moaasl5zo-bernard-mugos-projects.vercel.app/admin
 
-See [DEPLOYMENT_QUICK_START.md](./DEPLOYMENT_QUICK_START.md) for 5-minute deployment guide.
+## 📝 Assignment Requirements
+
+This project fulfills the MERN Stack Development final project requirements:
+- ✅ Full MERN stack implementation (MongoDB, Express, React, Node.js)
+- ✅ RESTful API with CRUD operations
+- ✅ User authentication and authorization (JWT)
+- ✅ Responsive frontend with React and Tailwind CSS
+- ✅ Database integration with MongoDB Atlas
+- ✅ Deployment on cloud platforms (Render + Vercel)
+- ✅ Security best practices implemented
+- ✅ Complete documentation
 
 ## 🛠️ Tech Stack
 
@@ -187,17 +199,41 @@ npm audit fix
 
 See [SECURITY.md](./SECURITY.md) for complete security documentation.
 
+## 🚀 Deployment
+
+This project is deployed using:
+- **Frontend:** Vercel (https://frontend-moaasl5zo-bernard-mugos-projects.vercel.app)
+- **Backend:** Render (https://mern-final-project-mugoemm.onrender.com)
+- **Database:** MongoDB Atlas
+
+### Deployment Guides:
+- [Quick Start Guide](./DEPLOYMENT_QUICK_START.md) - 5-minute deployment
+- [Complete Guide](./DEPLOYMENT_RENDER_VERCEL.md) - Detailed instructions
+- [Alternative Options](./DEPLOYMENT.md) - Docker, AWS, Heroku
+
 ## 📄 License
 
 See [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## 👨‍💻 Author
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+**Bernard Mugo**
+- GitHub: [@mugoemm](https://github.com/mugoemm)
+- Project: [mern-final-project-mugoemm](https://github.com/PLP-MERN-Stack-Development/mern-final-project-mugoemm)
+
+## 🎓 Course Information
+
+This project was developed as part of the **PLP MERN Stack Development** course final assignment.
+
+**Course Requirements Met:**
+- Full-stack MERN application
+- User authentication and authorization
+- RESTful API design
+- Database design and implementation
+- Frontend routing and state management
+- Cloud deployment
+- Security best practices
+- Complete documentation
 
 ## 📧 Support
 
